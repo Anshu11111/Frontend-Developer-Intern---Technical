@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Frontend-Developer-Intern---Technical/static/css/main.ac1ef59c.css",
+    "main.js": "/Frontend-Developer-Intern---Technical/static/js/main.c10ef653.js",
+    "static/media/icon.svg": "/Frontend-Developer-Intern---Technical/static/media/icon.8bd34f46c7e21ebabaaa563c13510dcb.svg",
+    "index.html": "/Frontend-Developer-Intern---Technical/index.html",
+    "main.ac1ef59c.css.map": "/Frontend-Developer-Intern---Technical/static/css/main.ac1ef59c.css.map",
+    "main.c10ef653.js.map": "/Frontend-Developer-Intern---Technical/static/js/main.c10ef653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1ef59c.css",
+    "static/js/main.c10ef653.js"
+  ]
+}
