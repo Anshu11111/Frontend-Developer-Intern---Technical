@@ -1,0 +1,39 @@
+.navbar1{
+height: 60px;
+border-bottom: 1px solid gray;
+width: 100%;
+/* margin-left: 200px;  */
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.navbar1 input{
+    width: 200px;
+    height: 30px;
+   text-align: left;
+   padding-left: 3%;
+}
+.nev-right img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.nev-right{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nev-left{
+    display: flex;
+    align-items: center;
+   
+  
+}
+.search{
+    margin-left:-37px ;
+   
+}
+.display{
+    display: none;
+}

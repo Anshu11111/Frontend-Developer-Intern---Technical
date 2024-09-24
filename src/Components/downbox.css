@@ -1,0 +1,31 @@
+.downbox{
+    width: 610px;
+    height: 68px;
+    background-color:#FAFAFA;
+   padding:10px 10px;
+   margin-top: 5px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+.rightdownbox{
+  width: 387px;
+  height: 64px;
+  background-color:#FAFAFA;
+ padding:10px 10px;
+ margin-top: 5px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.margin1{
+  margin: 10px 0px;
+
+}
+.icons{
+  display: flex;
+  width: 70px;
+  align-items: center;
+  justify-content: space-between;
+}

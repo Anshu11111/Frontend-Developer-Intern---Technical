@@ -1,0 +1,10 @@
+.rightbox{
+    width: 427px;
+    height: 424px;
+    background-color:#FAFAFA;
+   padding:1px;
+   margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

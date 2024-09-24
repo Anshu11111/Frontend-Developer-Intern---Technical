@@ -1,0 +1,35 @@
+.sidebar-main{
+    width: 200px;
+    background-color: rgb(224, 224, 224);
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.icon{
+    padding: 8%;
+}
+.sidebar-2 p{
+    font-size: 12px;
+    padding: 5%;
+    text-decoration: solid;
+    color: rgb(158, 152, 152);
+    font-weight: 500;
+}
+.sidebar-2 {
+    margin-top: 10%;
+}
+.list li{ 
+   list-style: none;
+   text-decoration: none;
+   font-size: 18px;
+   margin-left: 12px;
+}
+.li{
+    display: flex;
+    align-items: center;
+    margin:12% 10%;
+}
+.li:hover{
+    color: red;
+}
